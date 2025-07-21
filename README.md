@@ -62,4 +62,4 @@ Cada archivo está pensado para ser activado individualmente desde el archivo [`
 - `screen` da acceso a las propiedades de la pantalla del dispositivo, como la resolución.
 - Los eventos como `resize` permiten reaccionar a cambios en el tamaño de la ventana, útiles para crear interfaces responsivas.
 
-Mas info en [guia rapida]('https://github.com/albertomozo/HTML-guias/blob/main/guias/JS/js__navigator_screen_location.md')
+Mas info en [`guia rapida`]('https://github.com/albertomozo/HTML-guias/blob/main/guias/JS/js__navigator_screen_location.md')
