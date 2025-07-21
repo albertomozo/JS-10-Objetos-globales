@@ -62,4 +62,4 @@ Cada archivo está pensado para ser activado individualmente desde el archivo [`
 - `screen` da acceso a las propiedades de la pantalla del dispositivo, como la resolución.
 - Los eventos como `resize` permiten reaccionar a cambios en el tamaño de la ventana, útiles para crear interfaces responsivas.
 
-Puedes consultar la [documentación oficial de MDN sobre objetos globales en JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales) para obtener más información y ejemplos sobre cómo utilizar estos objetos en tus proyectos.
+Mas info en [guia rapida]('https://github.com/albertomozo/HTML-guias/blob/main/guias/JS/js__navigator_screen_location.md')
